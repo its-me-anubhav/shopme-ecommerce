@@ -53,8 +53,7 @@ const Footer = () => {
               ShopMe
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              You can buy any product here.
             </p>
           </div>
 
@@ -112,7 +111,7 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Indore, Madhya Pradesh</p>
+                  <p>Delhi, India</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />

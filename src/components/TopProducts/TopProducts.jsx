@@ -10,21 +10,21 @@ const ProductsData = [
     img: Img1,
     title: "Casual Wear",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Stay stylish and comfortable with this casual printed shirt, featuring vibrant patterns and a relaxed fit perfect for everyday wear.",
   },
   {
     id: 2,
     img: Img2,
     title: "Printed shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Add a pop of style to your wardrobe with this printed shirt, featuring bold patterns and a comfortable fit. Perfect for casual outings or a relaxed, trendy look!",
   },
   {
     id: 3,
     img: Img3,
     title: "Women shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Elegant and versatile, this women's shirt combines a tailored fit with soft, breathable fabric, making it ideal for work or casual outings.",
   },
 ];
 const TopProducts = ({ handleOrderPopup }) => {
@@ -40,8 +40,7 @@ const TopProducts = ({ handleOrderPopup }) => {
             Best Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+            Here are our some best products on the basis of customer satisfaction.
           </p>
         </div>
         {/* Body section */}
